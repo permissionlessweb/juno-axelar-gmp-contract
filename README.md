@@ -1,13 +1,13 @@
 # Cosmwasm SendReceive Smart Contract
 This project contains the Cosmwasm smart contract that can send and receive message payloads to/from EVM.
 
-This contract is deployed to uni-6 testnet: ``
+This contract is deployed to uni-6 testnet: `juno1h8fnj9qrjyecx7zhwtgvpucxpvztpa7gz28jztxxz8509uvn0fasa4gmzx`
 
 # Tests
 Unit tests can be run with `cargo test`
 
 # Build and deploy
-This process assumes you're using junod CLI: https://docs.cosmoscontracts.io/
+This process assumes you're using junod CLI: https://docs.junonetwork.io/
 
 1. Build
 ```
